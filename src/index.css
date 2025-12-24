@@ -1,0 +1,61 @@
+.auth-div{
+    height: 97vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-card{
+    height: 600px;
+    width: 400px;
+    border: 1px solid black;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.auth-card-pass{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.init{
+    height: 40px;
+    width: 300px;
+}
+
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.user{
+    display: flex;
+    justify-content: start;
+    width: 300px;
+}
+.pass{
+    display: flex;
+    justify-content: end;
+    width: 300px;
+}
+.sign{
+    margin-top: 100px;
+}
+
+.link{
+    text-decoration: none;
+    color:  black;
+}
+
+.butt{
+    margin-top: 20px;
+}
